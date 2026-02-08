@@ -4,4 +4,5 @@ https://michael-iota.vercel.app/
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express&theme=dark&perline=7" /><br><br>
   <img src="https://skillicons.dev/icons?i=mongodb,html,css,github,git&theme=dark&perline=5" /><br><br>
   <img src="https://skillicons.dev/icons?i=postgres,nextjs,ts&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,saas,redux,ts&theme=dark&perline=5" />
 </p>
