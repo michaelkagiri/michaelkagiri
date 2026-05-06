@@ -1,5 +1,4 @@
-https://michaelkagiri.vercel.app/
-
+https://michaelkagiri.netlify.app/
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express&theme=dark&perline=7" /><br><br>
   <img src="https://skillicons.dev/icons?i=mongodb,html,css,github,git&theme=dark&perline=5" /><br><br>
